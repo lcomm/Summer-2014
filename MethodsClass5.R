@@ -30,7 +30,7 @@ med.blue = blues[5]
 
 
 # Modeling gamma-generated data as exponential ----------------------------
-
+#yet another change
 
 #Requested function to generate samples from the gamma distribution
 PlotGamma <- function(n, alpha, beta, R) {
